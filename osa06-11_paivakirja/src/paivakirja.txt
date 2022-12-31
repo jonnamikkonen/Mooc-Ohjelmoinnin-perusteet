@@ -1,0 +1,29 @@
+1 - lis‰‰ merkint‰, 2 - lue merkinn‰t, 0 - lopeta
+11 - lis‰‰ merkint‰, 2 - lue merkinn‰t, 0 - lopeta
+1 - lis‰‰ merkint‰, 2 - lue merkinn‰t, 0 - lopeta
+1 - lis‰‰ merkint‰, 2 - lue merkinn‰t, 0 - lopeta
+Valinta: 1Anna merkint‰: ffP‰iv‰kirja tallennettu1 - lis‰‰ merkint‰, 2 - lue merkinn‰t, 0 - lopeta
+Valinta: 1
+Anna merkint‰: 22P‰iv‰kirja tallennettu1 - lis‰‰ merkint‰, 2 - lue merkinn‰t, 0 - lopeta
+Valinta: 1
+Anna merkint‰: 222
+P‰iv‰kirja tallennettu1 - lis‰‰ merkint‰, 2 - lue merkinn‰t, 0 - lopeta
+Valinta: 2
+Merkinn‰t: 
+222
+1 - lis‰‰ merkint‰, 2 - lue merkinn‰t, 0 - lopeta
+Valinta: 0
+Heippa!1 - lis‰‰ merkint‰, 2 - lue merkinn‰t, 0 - lopeta
+Anna merkint‰: 333
+1 - lis‰‰ merkint‰, 2 - lue merkinn‰t, 0 - lopeta
+1 - lis‰‰ merkint‰, 2 - lue merkinn‰t, 0 - lopeta
+Anna merkint‰: kkkk
+Anna merkint‰: ggg
+Anna merkint‰: tttt
+Anna merkint‰: gggg
+Anna merkint‰: lll
+Anna merkint‰: eeee
+Anna merkint‰: hhhh
+Anna merkint‰: tttt
+Anna merkint‰: 222
+Anna merkint‰: dddd
