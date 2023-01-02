@@ -15,8 +15,6 @@ def sarake_oikein(sudoku: list, sarake_nro: int):
     else:
         return False
                 
-        
-
 if __name__ == "__main__":
     sudoku = [
     [9, 0, 0, 0, 8, 0, 3, 0, 0],

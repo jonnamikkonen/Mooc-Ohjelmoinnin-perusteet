@@ -16,8 +16,6 @@ def rivi_oikein(sudoku: list, rivi_nro: int):
             return False
             break
                 
-        
-
 if __name__ == "__main__":
     sudoku = [
     [9, 0, 0, 0, 8, 0, 3, 0, 0],

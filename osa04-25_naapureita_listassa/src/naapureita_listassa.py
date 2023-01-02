@@ -1,16 +1,17 @@
 # tee ratkaisu tänne
-def pisin_naapurijono(lista:list):
-    muuttuja = 0
-    for numero in lista:
-        numero1 = numero
-        for numero in lista:
-            if numero1-numero != 1:
-                break
-            if numero1-numero == 1:
-                muuttuja +=1
-        
-    print(muuttuja)
-
+def pisin_naapurijono(lista: list):
+    naapurit = len(lista)
+    muuttuja1 = 0
+    muuttuja2 = 0
+    for i in range(naapurit - 1):
+        if abs(lista[i] - lista[i + 1]) == 1:
+            muuttuja1 += 1
+        else:
+            muuttuja1 = 0
+            
+        if muuttuja1 > muuttuja2:
+            muuttuja2 = muuttuja1
+    return muuttuja2 + 1
 
 
 if __name__ == "__main__":
