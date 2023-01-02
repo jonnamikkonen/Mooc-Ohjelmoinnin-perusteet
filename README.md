@@ -1,1 +1,1 @@
-# Mooc-Python-ohjelmointi
+# Mooc-Ohjelmoinnin-perusteet
