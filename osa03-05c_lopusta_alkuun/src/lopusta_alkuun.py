@@ -1,11 +1,8 @@
 # Kirjoita ratkaisu tähän
 merkkijono = input("Anna merkkijono: ")
-kohta = 0
+kohta = len(merkkijono)-1
 
-while kohta <= len(merkkijono):
-    kohta -=1
+while kohta >= 0:
     print(merkkijono[kohta])
-    if merkkijono[:0]:
-        break
-
+    kohta -= 1
     

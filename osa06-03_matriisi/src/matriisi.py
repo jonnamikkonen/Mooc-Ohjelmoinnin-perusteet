@@ -9,11 +9,10 @@ def rivisummat ():
             luvut = []
             for alkio in alkiot:
                 luvut.append(int(alkio))
-                tulos = sum(luvut)
+            
+            matriisi.append(tulos)
 
-                matriisi.append(tulos)
-
-    return matriisi
+        return matriisi
 
 def summa():
     rivisumma2 = rivisummat()

@@ -3,14 +3,9 @@ def lue_hedelmat ():
     sanakirja = {}
     with open("hedelmat.csv") as tiedosto:
         for rivi in tiedosto:
-            rivi = rivi.replace(";", ":")
             rivi = rivi.replace("\n", "")
-            osat = rivi.split(":")
-            hedelma = osat[0]
-            hinta = osat[1:]
-            sanakirja[hedelma] = hinta
-
-            for x in hinta:
+            osat = rivi.split(";")
+            sanakirja[osat[0]] = float(osat[1])
                 
     return sanakirja
 

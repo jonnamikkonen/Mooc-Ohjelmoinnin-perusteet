@@ -1,9 +1,11 @@
 vuosi = int(input("Vuosi: "))
-year = 0
+year = vuosi +1
 
 while True:
-   if vuosi % 4 == 0 and vuosi % 100 != 0:
-    print(f"Vuotta {vuosi} seuraava karkausvuosi on ")
+   if year % 4 == 0 and year % 100 != 0 or year % 400 == 0:
+      break
+   year += 1
+print(f"Vuotta {vuosi} seuraava karkausvuosi on {year}")
    
 
 
